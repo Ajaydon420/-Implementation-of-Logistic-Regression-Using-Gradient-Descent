@@ -121,25 +121,43 @@ np.mean(predict(res.x,X)==y)
 ![logistic regression using gradient descent](sam.png)
 
 Array Value of x
+
 ![270424335-e5311ce6-a9ee-4086-b99f-f8c6b4491790](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/77f14729-b29c-44e3-94bd-3842a8f161e1)
+
 Array Value of y
+
 ![270424349-462fb7c0-fff3-4b13-94d0-b6498c351f26](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/d5855d9c-c67e-482f-923f-7ca8e74d0a9f)
+
 Exam 1 - score graph
+
 ![270424409-edc4acfc-30af-40ec-9c5e-eac35cb89e19](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/8c152e95-50fc-4472-a866-07c58e103596)
+
 Sigmoid function graph
+
 ![270424445-9bd4bfca-0274-4d02-97ea-88bc4274d31a](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/3d7e85ff-bdaa-4849-9c49-3e28d6fce2a2)
+
 X_train_grad value
+
 ![270424466-63a6de99-e789-4656-8200-b5f9cea9747b](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/49c4f5c7-5d79-4c05-9435-bf302caaa3b2)
+
 Y_train_grad value
+
 ![270424645-ced57c1b-be0d-48a9-8d21-504778656c5f](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/bec793dc-4a55-48ef-b219-20a5ae82d7da)
+
 Print res.x
+
 ![270424696-98c18a7b-e6c0-46db-bc53-05752a2fefbd](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/bd563a26-7347-4929-81a1-73cdc9193b27)
+
 Decision boundary - graph for exam score
+
 ![270424710-d0a35897-b5a6-42a3-a856-00ea5086697f](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/33563b7c-ad72-4254-b319-fa0e26265f34)
+
 Proability value
 ![270424744-ccfd7a31-69c4-41ab-bac5-c019aa989b86](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/6a9822a5-e2f3-4a3c-8cc9-f779b55c9304)
+
 Prediction value of mean
 ![270424764-1d6e9ca6-3ecf-4029-828b-1993ca653c66](https://github.com/Ajaydon420/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/161410969/4b6ae860-e65b-40bf-9ab7-7fd07d58fb08)
+
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
